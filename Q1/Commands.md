@@ -8,9 +8,7 @@ Explanation: I used the "id" command to get details about the username and id, t
 
 Screenshot: ![Q1 Image1](images/q11.png)
 
-
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 2. Workspace Validation
 
@@ -27,9 +25,7 @@ Explanation: I used the "pwd" command to display the current working directory a
 
 Screenshot: ![Q1 Image2](images/q12.png)  
 
-
-
-    
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
 
 3. Environment Confirmation File
 
@@ -41,6 +37,8 @@ Ouput: File was created and the content was copied.
 File Ouput: ![Q1 File 1](files/user_info.txt)  
 
 Screenshot: ![Q1 Image3](images/q13.png)  
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
