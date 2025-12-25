@@ -32,3 +32,5 @@ Ouput: File was created and the content was copied.
 
 File Ouput: ![Q1 File 1](files/user_info.txt)  
 
+Screenshot: ![Q1 Image3](images/q13.png)  
+
