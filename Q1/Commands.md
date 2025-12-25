@@ -10,6 +10,8 @@ Screenshot: ![Q1 Image1](images/q11.png)
 
 
 
+
+    
 2. Workspace Validation
 
 a) Command used: pwd  
@@ -27,6 +29,8 @@ Screenshot: ![Q1 Image2](images/q12.png)
 
 
 
+    
+
 3. Environment Confirmation File
 
 Commands used: touch user_info.txt
@@ -38,3 +42,6 @@ File Ouput: ![Q1 File 1](files/user_info.txt)
 
 Screenshot: ![Q1 Image3](images/q13.png)  
 
+
+
+4. 
