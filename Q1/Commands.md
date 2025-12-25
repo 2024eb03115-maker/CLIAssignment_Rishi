@@ -21,5 +21,14 @@ Output: total 1
 
 Explanation: I used the "pwd" command to display the current working directory and "ls -l" to list the files in the present directory. While "ls" is used to list files, the "-l" option lists more details about it.  
 
-Screenshot: 
+Screenshot: ![Q1 Image1](q12.png)  
+
+3. Environment Confirmation File
+
+Commands used: touch user_info.txt
+echo "Linux user environment verified" > user_info.txt  
+
+Ouput: File was created and the content was copied.  
+
+File Ouput:
 
