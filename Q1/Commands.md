@@ -8,6 +8,8 @@ Explanation: I used the "id" command to get details about the username and id, t
 
 Screenshot: ![Q1 Image1](images/q11.png)
 
+
+
 2. Workspace Validation
 
 a) Command used: pwd  
@@ -22,6 +24,8 @@ Output: total 1
 Explanation: I used the "pwd" command to display the current working directory and "ls -l" to list the files in the present directory. While "ls" is used to list files, the "-l" option lists more details about it.  
 
 Screenshot: ![Q1 Image2](images/q12.png)  
+
+
 
 3. Environment Confirmation File
 
